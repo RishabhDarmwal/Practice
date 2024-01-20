@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['261_2B.py', '254_2A.py', '919A.py', '919A2.py', '919B.py', '919C.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
